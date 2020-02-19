@@ -2,6 +2,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: mysql
   author: clivewalkden
   description: MySQL server for RHEL/CentOS and Debian/Ubuntu.
   company: "CW Enterprises"
